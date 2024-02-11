@@ -1,0 +1,44 @@
+body {
+  color: rgb(255, 255, 255);
+  background-color: rgb(33, 54, 33);
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  position: absolute;
+  background-color: rgb(41, 83, 41);
+  height: 10vh;
+  width: 100%;
+}
+p {
+  padding: 15vh;
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300;
+  font-size: larger;
+}
+.trees{
+    text-align: center;
+    padding-top: 10px;
+    font-family: 'Oswald', sans-serif;
+    
+}
+.nav{
+    text-align: center;
+    padding-top: 10px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 400;
+}
+a{
+    text-decoration: none;
+    font-style: italic;
+    color: rgb(0, 0, 0);
+}
+p a{
+    text-decoration: underline;
+    font-size: x-large;
+    color: white;
+}
